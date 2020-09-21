@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 22 07:38:58 CST 2020
+thymeleaf-3.0.11.RELEASE-sources.jar>nexus-aliyun=
+thymeleaf-3.0.11.RELEASE.pom>nexus-aliyun=
+thymeleaf-3.0.11.RELEASE.jar>nexus-aliyun=
+thymeleaf-3.0.11.RELEASE-javadoc.jar>nexus-aliyun=
