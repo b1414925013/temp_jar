@@ -1,4 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue Sep 22 07:32:01 CST 2020
-http\://maven.aliyun.com/nexus/content/groups/public/.error=Could not transfer artifact org.apache.maven.shared\:maven-shared-io\:jar\:3.0.0 from/to nexus-aliyun (http\://maven.aliyun.com/nexus/content/groups/public)\: Connection reset
-@default-nexus-aliyun-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1600731121638

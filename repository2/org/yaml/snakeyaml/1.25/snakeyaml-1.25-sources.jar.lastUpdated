@@ -1,4 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue Sep 22 07:36:03 CST 2020
-http\://maven.aliyun.com/nexus/content/groups/public/.error=Could not transfer artifact org.yaml\:snakeyaml\:jar\:sources\:1.25 from/to nexus-aliyun (http\://maven.aliyun.com/nexus/content/groups/public)\: Connection reset
-@default-nexus-aliyun-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1600731363035
